@@ -34,7 +34,7 @@ What I learned Being that I'm still learning frontend development, I was able wo
 - Udemy - https://www.udemy.com/course-dashboard-redirect/?course_id=764164 -
 
 ### Author
-- Website - Tega Lucky-Fiakpa (https://heisenberg-testimonial-grid.netlify.app/)
+- Website - Tega Lucky-Fiakpa (https://heisenberg-chat-app-css.netlify.app/)
 - Frontend Mentor - @tegxy(https://www.frontendmentor.io/profile/tegxy)
 - Twitter - @tegxy(https://www.twitter.com/tegxy)
 
